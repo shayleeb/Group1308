@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en" class="h-100">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="COMP501 - Assignment One">
+        <meta name="author" content="Jack Darlington">
+        <title>COMP501 - Assignment One</title>
+        <!-- Bootstrap core -->
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+		<script src="js/bootstrap.bundle.min.js"></script>
+        <!-- Custom styles -->
+        <link href="css/styles.css" rel="stylesheet">
+        <!-- Fonts -->
+        <link href="fonts/fonts.css" rel="stylesheet">
+    </head>
+    <body class="d-flex h-100 text-center text-white front-page">
+        <div class="d-flex w-100 h-100 p-5 mx-auto flex-column">
+            <header class="mb-auto">
+                <div>
+                    <h3 class="float-md-start mb-0 center-align navbar-brand"><a href="#">COMP501</a></h3>
+                    <nav class="nav nav-masthead justify-content-center float-md-end">
+                        <a class="nav-link active" aria-current="page" href="#">Home</a>
+                        <a class="nav-link" href="part1/index.html">Part One</a>
+                        <a class="nav-link" href="part2/index.html">Part Two</a>
+                        <a class="nav-link" href="part3/index.html">Part Three</a>
+                    </nav>
+                </div>
+            </header>
+
+            <main class="px-3">
+                <h1>ICT FUNDAMENTALS</h1>
+                <h3>Jack Darlington</h3>
+				<p class="lead"></p>
+            </main>
+            <footer class="mt-auto">
+		      	<p>Created with Bootstrap under the <a href="licenses/bootstrap.html">MIT license</a>. Background image from <a href="https://www.unsplash.com">Unsplash</a>.</p>
+			</footer>
+        </div>
+    </body>
+</html>
