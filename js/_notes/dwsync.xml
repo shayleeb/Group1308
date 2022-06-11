@@ -4,4 +4,12 @@
 <file name="custom.js" server="192.168.1.150/corriclabs.xyz/" local="132944695603694564" remote="132947141400000000" Dst="1" />
 <file name="bootstrap.bundle.min.js.map" server="192.168.1.150/corriclabs.xyz/" local="132782642630000000" remote="132947141400000000" Dst="1" />
 <file name="jquery.js" server="192.168.1.150/corriclabs.xyz/" local="132935981175612128" remote="132947141400000000" Dst="1" />
+<file name="bootstrap.bundle.min.js" server="192.168.1.150/corriclabs.xyz/assignment3/" local="132968797846562521" remote="132974371800000000" Dst="1" />
+<file name="bootstrap.bundle.min.js.map" server="192.168.1.150/corriclabs.xyz/assignment3/" local="132968797846597396" remote="132974374200000000" Dst="1" />
+<file name="custom.js" server="192.168.1.150/corriclabs.xyz/assignment3/" local="132968797846602414" remote="132974374200000000" Dst="1" />
+<file name="jquery.js" server="192.168.1.150/corriclabs.xyz/assignment3/" local="132968797846614160" remote="132974374200000000" Dst="1" />
+<file name="bootstrap.bundle.min.js" server="10.20.0.120/corriclabs.xyz/assignment3/" local="132968797846562521" remote="132986452200000000" Dst="1" />
+<file name="custom.js" server="10.20.0.120/corriclabs.xyz/assignment3/" local="132968797846602414" remote="132986452200000000" Dst="1" />
+<file name="jquery.js" server="10.20.0.120/corriclabs.xyz/assignment3/" local="132968797846614160" remote="132986452200000000" Dst="1" />
+<file name="bootstrap.bundle.min.js.map" server="10.20.0.120/corriclabs.xyz/assignment3/" local="132968797846597396" remote="132986452200000000" Dst="1" />
 </dwsync>
